@@ -41,7 +41,7 @@ const QuoteCard = ({
 
       <hr></hr>
 
-      <h4>Search for a quote by a keyword i.e. bacon</h4>
+      <h4>Search for a quote by keyword i.e. bacon</h4>
       <form onSubmit={handleSearchQuote}>
         <input
           type="text"
