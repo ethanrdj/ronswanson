@@ -1,0 +1,53 @@
+.QuoteCard {
+  color: black;
+  padding: 8% 0% 5% 0%;
+  border-radius: 5%;
+}
+
+.QuoteCard p {
+  margin-bottom: 10%;
+}
+
+.QuoteCard img {
+  height: 10vh;
+  margin-right: 25%;
+  margin-left: 30%;
+}
+
+.search-input {
+  border-radius: 5px;
+  width: 100%;
+  border: none;
+  height: 3vh;
+  padding: 1%;
+  font-size: 1.1em;
+}
+
+.QuoteCard button {
+  height: 4vh;
+  font-weight: bold;
+  background: none;
+  border: none;
+  font-size: 1.1em;
+  margin-top: 1vh;
+}
+
+.QuoteCard ul {
+  list-style-type: none;
+  margin-left: -13%;
+  width: 100%;
+}
+
+.QuoteCard li {
+  margin-top: 7%;
+  padding-bottom: 7%;
+  border-bottom: 2px solid black;
+}
+
+.QuoteCard hr {
+  width: 75%;
+  height: 2px;
+  border-width: 0;
+  color: black;
+  background-color: black;
+}

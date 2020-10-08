@@ -1,9 +1,11 @@
 body {
   margin: 0;
-  background-color: #483d8b;
+  background-color: #e8e8e8;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+/* background-color: #7f53ac;
+background-image: linear-gradient(315deg, #7f53ac 0%, #647dee 74%); */

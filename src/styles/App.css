@@ -1,9 +1,17 @@
-@import "https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Rambla&display=swap";
 
 .App {
   text-align: center;
-  font-family: "Bebas Neue", cursive;
+  font-family: "Lexend Deca", sans-serif;
   padding: 10%;
-  font-size: 1.5em;
-  color: white;
+  font-size: 1.3em;
+  color: black;
+}
+
+.App hr {
+  margin-top: 5%;
+  height: 3px;
+  border-width: 0;
+  color: black;
+  background-color: black;
 }
